@@ -1,0 +1,22 @@
+{
+  "name": "nas-pt",
+  "version": "1.0.0",
+  "description": "Controller for multiple NAS servers that run Private Torrent.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everthis/nas-pt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everthis/nas-pt/issues"
+  },
+  "homepage": "https://github.com/everthis/nas-pt#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
